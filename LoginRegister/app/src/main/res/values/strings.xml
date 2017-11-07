@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">LoginRegister</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register_here" translatable="false">Register Here</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="user_name" translatable="false">User Name</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="age" translatable="false">Age</string>
+    <string name="welcome">Welcome</string>
+    <string name="register">Register</string>
+</resources>
